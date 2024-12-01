@@ -2,7 +2,6 @@
 # Pharmaceutical Supply Chain Optimization  
 **for Sun Pharma**  
 **Using Advanced Data Science and Machine Learning Techniques**  
-![image](https://github.com/user-attachments/assets/0bed6da1-dd92-4d4c-a6cb-c0668afffef8)
 
 ---
 
