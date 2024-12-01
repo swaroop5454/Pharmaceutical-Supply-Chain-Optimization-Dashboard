@@ -5,6 +5,10 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/29680ff2-08bf-4d44-813c-3b5e20675139)
+
+
+---
 **Presented by**  
 **Swaroop H**  
 *Innovative | Enthusiast Educator | Data Scientist*  
